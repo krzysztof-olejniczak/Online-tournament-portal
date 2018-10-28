@@ -1,0 +1,22 @@
+#map {
+	width: 600px;
+	height: 400px;
+	border: 0px;
+	background: gray;
+	border-radius: 10px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+.sponsorLogos {
+	width: 200px;
+	height: 200px;
+}
+.column {
+	float: left;
+	margin: 10px;
+}
+
+
+td {
+	text-align: center;
+}

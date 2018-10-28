@@ -1,0 +1,29 @@
+.form {
+	text-align: left;
+	width: 500px;
+	text-align: right;
+	line-height: 1.5em;
+}
+.inputField{
+	height: 30px;
+	width: 200px;
+	margin-bottom: 20px;
+}
+.inputTextarea{
+	height: 60px;
+	width: 300px;
+	margin-bottom: 20px;
+}
+.inputNumber{
+	height: 30px;
+	width: 90px;
+	margin-bottom: 20px;
+}
+.inputButton{
+	height: 30px;
+	width: 140px;
+	margin-bottom: 20px;
+}
+.link {
+	text-align: center;
+}

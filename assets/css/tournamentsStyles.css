@@ -1,0 +1,53 @@
+.singleTournament {
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.singleTournament:hover {
+	background: rgba(147,206,222,1);
+	background: -moz-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 2%, rgba(73,165,191,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(147,206,222,1)), color-stop(2%, rgba(117,189,209,1)), color-stop(100%, rgba(73,165,191,1)));
+	background: -webkit-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 2%, rgba(73,165,191,1) 100%);
+	background: -o-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 2%, rgba(73,165,191,1) 100%);
+	background: -ms-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 2%, rgba(73,165,191,1) 100%);
+	background: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 2%, rgba(73,165,191,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', endColorstr='#49a5bf', GradientType=1 );
+}
+.tournamentName {
+	font-size: 25px;
+	font-family: Eras Demi ITC;
+	color: rgb(51, 102, 255);
+}
+.tournamentInfoInList {
+	font-size: 15px;
+}
+.tournamentPlanned {
+	background: rgba(241,231,103,0);
+	background: -moz-linear-gradient(left, rgba(241,231,103,0) 29%, rgba(241,231,103,0.25) 47%, rgba(241,231,103,0.28) 49%, rgba(254,182,69,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(29%, rgba(241,231,103,0)), color-stop(47%, rgba(241,231,103,0.25)), color-stop(49%, rgba(241,231,103,0.28)), color-stop(100%, rgba(254,182,69,1)));
+	background: -webkit-linear-gradient(left, rgba(241,231,103,0) 29%, rgba(241,231,103,0.25) 47%, rgba(241,231,103,0.28) 49%, rgba(254,182,69,1) 100%);
+	background: -o-linear-gradient(left, rgba(241,231,103,0) 29%, rgba(241,231,103,0.25) 47%, rgba(241,231,103,0.28) 49%, rgba(254,182,69,1) 100%);
+	background: -ms-linear-gradient(left, rgba(241,231,103,0) 29%, rgba(241,231,103,0.25) 47%, rgba(241,231,103,0.28) 49%, rgba(254,182,69,1) 100%);
+	background: linear-gradient(to right, rgba(241,231,103,0) 29%, rgba(241,231,103,0.25) 47%, rgba(241,231,103,0.28) 49%, rgba(254,182,69,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645', GradientType=1 );
+}
+.tournamentTakingPlace {
+	background: rgba(210,255,82,0.03);
+	background: -moz-linear-gradient(left, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.17) 48%, rgba(145,232,66,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(39%, rgba(210,255,82,0.03)), color-stop(39%, rgba(210,255,82,0.03)), color-stop(48%, rgba(210,255,82,0.17)), color-stop(100%, rgba(145,232,66,1)));
+	background: -webkit-linear-gradient(left, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.17) 48%, rgba(145,232,66,1) 100%);
+	background: -o-linear-gradient(left, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.17) 48%, rgba(145,232,66,1) 100%);
+	background: -ms-linear-gradient(left, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.17) 48%, rgba(145,232,66,1) 100%);
+	background: linear-gradient(to right, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.03) 39%, rgba(210,255,82,0.17) 48%, rgba(145,232,66,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ff52', endColorstr='#91e842', GradientType=1 );
+}
+.tournamentFinished {
+	background: rgba(169,3,41,0.02);
+	background: -moz-linear-gradient(left, rgba(169,3,41,0.02) 32%, rgba(169,3,41,0.38) 57%, rgba(143,2,34,0.97) 98%, rgba(109,0,25,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(32%, rgba(169,3,41,0.02)), color-stop(57%, rgba(169,3,41,0.38)), color-stop(98%, rgba(143,2,34,0.97)), color-stop(100%, rgba(109,0,25,1)));
+	background: -webkit-linear-gradient(left, rgba(169,3,41,0.02) 32%, rgba(169,3,41,0.38) 57%, rgba(143,2,34,0.97) 98%, rgba(109,0,25,1) 100%);
+	background: -o-linear-gradient(left, rgba(169,3,41,0.02) 32%, rgba(169,3,41,0.38) 57%, rgba(143,2,34,0.97) 98%, rgba(109,0,25,1) 100%);
+	background: -ms-linear-gradient(left, rgba(169,3,41,0.02) 32%, rgba(169,3,41,0.38) 57%, rgba(143,2,34,0.97) 98%, rgba(109,0,25,1) 100%);
+	background: linear-gradient(to right, rgba(169,3,41,0.02) 32%, rgba(169,3,41,0.38) 57%, rgba(143,2,34,0.97) 98%, rgba(109,0,25,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=1 );
+}
